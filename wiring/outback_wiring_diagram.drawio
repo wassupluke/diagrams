@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram id="M6PC2RsMTn0RFS42g0a-" name="Page-1">
-    <mxGraphModel dx="1042" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="802" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,13 +18,13 @@
         <mxCell id="SxaKclyLhmXK-swZaq51-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Fog" vertex="1">
           <mxGeometry height="80" width="80" x="240" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="DDLrlg4Z3kgoFGLOrRFP-24" edge="1" parent="1" source="SxaKclyLhmXK-swZaq51-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#33FF33);" target="SxaKclyLhmXK-swZaq51-50">
+        <mxCell id="WrzQOdCs2p204xD2A1ZK-4" edge="1" parent="1" source="SxaKclyLhmXK-swZaq51-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#00FF00;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="660" />
-              <mxPoint x="410" y="660" />
-              <mxPoint x="410" y="520" />
+              <mxPoint x="440" y="590" />
+              <mxPoint x="400" y="590" />
             </Array>
+            <mxPoint x="400" y="520.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SxaKclyLhmXK-swZaq51-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="High Beams" vertex="1">
@@ -286,6 +286,18 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WrzQOdCs2p204xD2A1ZK-1" parent="1" style="pointerEvents=1;fillColor=strokeColor;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.diodes.diode;strokeColor=#33FF33;perimeterSpacing=0;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="15" width="25.01" x="404.99" y="512.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WrzQOdCs2p204xD2A1ZK-3" edge="1" parent="1" source="SxaKclyLhmXK-swZaq51-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;entryPerimeter=0;" target="WrzQOdCs2p204xD2A1ZK-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="590" />
+              <mxPoint x="380" y="590" />
+              <mxPoint x="380" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
